@@ -26,6 +26,9 @@ En lineas generales el procedimiento seguido sería el siguiente.
 
 4- Representación de datos en gráficas.
 
+![](https://i.ytimg.com/vi/v9YSbIEhFik/maxresdefault.jpg)
+
+
 BIBLIOGRAFÍA y RECURSOS.
 
 https://www.kaggle.com/teajay/global-shark-attacks
