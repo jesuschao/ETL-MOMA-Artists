@@ -6,37 +6,33 @@ plt.title("Approach to artists in MOMA since the last 50 years"), fontsize = 30,
 
 ![](https://losviajesdesofia.com/wp-content/uploads/MoMA-Museum.jpg)
 
-OBJETIVO.
+PURPOSE.
 
-En base a un archivo csv tomado de kaggle, hacemos una limpieza de datos que me permita validar mis hipótesis. Los resultados de dicha validación se muestran visualmente a través de gráficas.
+The aim of this project is extending a MOMA´s artists database taken from kaggle with some interesting insights of the education and economy from the countries they are from. Naturally, this work is just an approach/sketch to the artists´s instruction and economic environment but does not want to draw any conclusion of it; many other facts should have been taken into account.
 
-PROCESO.
+PROCEDURE.
 
-En lineas generales el procedimiento seguido sería el siguiente.
+1_ I have imported a database from kaggle referred to the art&artists that have exhibited their work in MOMA. To get a better outline, I have decided to focus on the artists that have have exposed in the last 50 years.
 
-1- Entender los datos de la tabla y hacer una primera limpieza.
+2_ I have cleaned the csv from columns that are irrelevant for my goal; "Title", "ConstituentID", "ArtistBio" ... In addition to this, I modified other columns such as "Date", "Nationality" or "Artist" for managing the table.
 
-2- Hacer una serie de hipótesis que, en mi caso, son las siguientes:
-- USA es el pais donde más accidentes de tiburón se producen.
-- La mayor parte de los accidentes son no provocados.
-- Fishing y Surfing; mayores causas de accidentes.
-- Mueren más hombres que mujeres.
 
-3- Limpieza de datos y validación.
+3_ I have introduced some data using "BeautifulSoup" scrapping from these websites;
 
-4- Representación de datos en gráficas.
+    - Chartsbin; http://chartsbin.com/view/41109 that shows the creativity index by country.
+    - Country economy; https://countryeconomy.com/gdp?year=1980 that shows the GDP by country.
+
+4_ Finally, I have joined all the information in one single table using MySQL.
+
 
 ![](https://i.ytimg.com/vi/v9YSbIEhFik/maxresdefault.jpg)
 
 
 BIBLIOGRAFÍA y RECURSOS.
 
-https://www.kaggle.com/teajay/global-shark-attacks
+https://www.kaggle.com/momanyc/museum-collection
 https://numpy.org/doc/1.18/
 https://pandas.pydata.org/
 https://docs.python.org/3/library/functions.html
-https://plotly.com/python/
-https://matplotlib.org/
-https://seaborn.pydata.org/
 https://pandas.pydata.org/docs/
 https://stackoverflow.com/
