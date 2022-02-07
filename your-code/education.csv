@@ -1,0 +1,140 @@
+Rank,Country,Technology,Talent,Tolerance,Global_Creativity_Index
+1,Australia,7,1,4,0.97
+2,United States,4,3,11,0.95
+3,New Zealand,7,8,3,0.949
+4,Canada,13,14,1,0.92
+5,Denmark,10,6,13,0.917
+5,Finland,5,3,20,0.917
+7,Sweden,11,8,10,0.915
+8,Iceland,26,2,2,0.913
+9,Singapore,7,5,23,0.896
+10,Netherlands,20,11,6,0.889
+11,Norway,18,12,9,0.883
+12,United Kingdom,15,20,5,0.881
+13,Ireland,23,21,7,0.845
+14,Germany,7,28,18,0.837
+16,Switzerland,19,22,17,0.822
+16,France,16,26,16,0.822
+16,Slovenia,17,8,35,0.822
+18,Belgium,28,18,14,0.817
+19,Spain,31,19,12,0.811
+20,Austria,12,26,32,0.788
+21,Hong Kong,32,32,30,0.715
+21,Italy,25,31,38,0.715
+23,Portugal,35,36,22,0.71
+24,Japan,2,58,39,0.708
+25,Luxembourg,20,48,32,0.696
+26,Uruguay,48,45,7,0.688
+27,Argentina,48,35,19,0.681
+28,Hungary,34,33,41,0.673
+29,Brazil,27,68,15,0.667
+30,Israel,3,28,93,0.665
+31,South Korea,1,50,70,0.66
+32,Nicaragua,56,,27,0.631
+33,Estonia,33,16,87,0.625
+34,Chile,56,39,31,0.611
+35,Czech Republic,29,30,80,0.609
+36,Costa Rica,47,61,20,0.607
+37,Belarus,41,8,97,0.598
+38,Russian Federation,22,15,123,0.579
+39,South Africa,30,62,57,0.564
+40,Latvia,54,22,77,0.563
+41,Cuba,94,17,37,0.556
+42,Laos,,97,23,0.555
+43,Malta,73,49,25,0.55
+44,Ecuador,43,90,25,0.532
+45,Ukraine,43,24,105,0.518
+46,Poland,46,25,101,0.516
+46,Montenegro,51,34,83,0.516
+48,Bulgaria,78,38,47,0.505
+49,Belize,,88,48,0.504
+50,Jamaica,42,79,49,0.502
+51,Lithuania,65,12,105,0.49
+52,Philippines,54,65,53,0.487
+54,Slovak Republic,69,42,66,0.484
+54,Serbia,70,45,58,0.484
+54,Greece,39,43,101,0.484
+56,Panama,70,67,34,0.482
+57,Iran,,71,72,0.481
+58,Croatia,60,39,81,0.481
+59,Mauritius,,76,68,0.477
+60,Venezuela,40,83,61,0.466
+61,Botswana,,73,75,0.462
+62,China,14,87,96,0.462
+63,Malaysia,24,69,101,0.455
+64,Guatemala,102,37,44,0.449
+64,Georgia,35,82,78,0.449
+66,Cyprus,96,44,45,0.446
+67,Trinidad and Tobago,111,52,28,0.433
+68,Romania,65,60,76,0.425
+69,Peru,62,79,60,0.418
+70,Kenya,82,,52,0.417
+71,Colombia,89,75,36,0.41
+72,Cameroon,,103,59,0.408
+73,Mexico,54,94,56,0.407
+74,Macedonia,76,63,70,0.391
+75,Syrian Arab Republic,,85,84,0.382
+75,Burkina Faso,,122,46,0.382
+77,Macao,80,56,,0.381
+78,Dominican Republic,63,81,74,0.38
+78,Jordan,37,63,127,0.38
+80,Vietnam,45,104,73,0.377
+81,Mongolia,75,47,98,0.37
+82,Thailand,38,84,105,0.365
+83,Saudi Arabia,50,59,122,0.362
+84,Kazakhstan,72,54,98,0.357
+85,Senegal,,112,64,0.355
+86,Kuwait,108,,39,0.351
+87,Afghanistan,,124,54,0.349
+88,Turkey,58,53,123,0.348
+89,Mali,,114,64,0.347
+90,Mozambique,63,117,50,0.346
+91,Bermuda,104,41,,0.346
+92,Nepal,97,99,29,0.343
+93,Honduras,60,93,89,0.319
+94,Lebanon,,55,132,0.317
+95,Bangladesh,90,101,43,0.316
+96,Benin,,101,86,0.311
+97,Paraguay,90,86,69,0.303
+98,Ethiopia,103,95,42,0.295
+99,India,52,92,108,0.292
+100,Uzbekistan,74,111,64,0.288
+101,Central African Republic,,128,67,0.286
+102,Algeria,68,77,116,0.279
+103,Armenia,83,50,133,0.269
+104,Tunisia,,72,131,0.26
+105,Moldova,85,57,128,0.256
+106,Sri Lanka,100,96,61,0.255
+107,Qatar,58,122,,0.255
+108,Bosnia and Herzegovina,77,70,119,0.253
+109,El Salvador,109,100,50,0.248
+110,Azerbaijan,98,78,92,0.244
+111,Pakistan,100,110,54,0.24
+111,Kyrgyz Republic,100,74,94,0.24
+113,Cambodia,87,118,78,0.213
+114,Tajikistan,106,90,85,0.205
+115,Indonesia,67,108,115,0.202
+116,Albania,83,90,118,0.197
+117,Uganda,,108,109,0.197
+118,Egypt,93,66,134,0.196
+119,Niger,,132,89,0.185
+120,Morocco,78,98,120,0.178
+121,Haiti,88,,117,0.174
+122,Cote d'Ivoire,94,115,89,0.171
+123,Chad,,130,95,0.17
+124,Lesotho,112,104,82,0.162
+125,Angola,,113,114,0.16
+126,Rwanda,80,130,113,0.141
+127,Malawi,,133,101,0.135
+128,Tanzania,,127,110,0.126
+129,Burundi,107,125,89,0.125
+130,Guinea,,126,111,0.124
+131,Zimbabwe,,129,111,0.113
+132,Yemen,86,106,135,0.112
+133,Liberia,,121,120,0.109
+134,Zambia,92,107,129,0.103
+135,Mauritania,,119,126,0.10
+135,Djibouti,,120,125,0.10
+137,Madagascar,105,134,107,0.08
+138,Ghana,,116,136,0.07
+139,Iraq,110,,130,0.03
