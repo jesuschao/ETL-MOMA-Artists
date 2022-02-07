@@ -8,7 +8,7 @@ plt.title("Approach to artists in MOMA since the last 50 years"), fontsize = 30,
 
 PURPOSE.
 
-The aim of this project is extending a MOMA´s artists database taken from kaggle with some interesting insights of the education and economy from the countries they are from. Naturally, this work is just an approach/sketch to the artists´s instruction and economic environment but does not want to draw any conclusion of it; many other facts should have been taken into account.
+The aim of this project is extending a MOMA´s artists database taken from [Kaggle] (https://www.kaggle.com/momanyc/museum-collection) with some interesting insights of the education and economy from the countries they are from. Naturally, this work is just an approach/sketch to the artists´s instruction and economic environment but does not want to draw any conclusion of it; many other facts should have been taken into account.
 
 PROCEDURE.
 
