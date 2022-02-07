@@ -17,8 +17,8 @@ The aim of this project is extending a MOMA´s artists database taken from [Kagg
 
 3_ I have introduced some data using "BeautifulSoup" scrapping from these websites;
 
-    - [Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
-    - [Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
+[Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
+[Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
 
 4_ Finally, I have joined all the information in one single table using MySQL.
 
