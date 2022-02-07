@@ -2,3 +2,9 @@
 **/*.ipynb_checkpoints/
 **/__pycache__
 Password.txt
+df_10.csv
+df_20.csv
+df_80.csv
+df_99.csv
+education.csv
+moma.csv
