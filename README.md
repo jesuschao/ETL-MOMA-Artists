@@ -1,8 +1,8 @@
 # W5-ETL-Project
 
-[W5-ETL-Project] Jesús Chao
+# [W5-ETL-Project] Jesús Chao
 
-plt.title("Approach to artists in MOMA since the last 50 years"), fontsize = 30, fontweight="bold")
+## Approach to artists in MOMA since the last 50 years")
 
 ![](https://losviajesdesofia.com/wp-content/uploads/MoMA-Museum.jpg)
 
@@ -19,8 +19,8 @@ PROCEDURE.
 
 3_ I have introduced some data using "BeautifulSoup" scrapping from these websites;
 
-    - Chartsbin; http://chartsbin.com/view/41109 that shows the creativity index by country.
-    - Country economy; https://countryeconomy.com/gdp?year=1980 that shows the GDP by country.
+    - [Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
+    - [Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
 
 4_ Finally, I have joined all the information in one single table using MySQL.
 
@@ -28,11 +28,14 @@ PROCEDURE.
 ![](https://i.ytimg.com/vi/v9YSbIEhFik/maxresdefault.jpg)
 
 
-BIBLIOGRAFÍA y RECURSOS.
+BIBLIOGRAPHIC REFERENCES AND RESOURCES.
 
-https://www.kaggle.com/momanyc/museum-collection
-https://numpy.org/doc/1.18/
-https://pandas.pydata.org/
-https://docs.python.org/3/library/functions.html
-https://pandas.pydata.org/docs/
-https://stackoverflow.com/
+[Kaggle](https://www.kaggle.com/datasets)
+
+[Numpy](https://numpy.org/doc/1.18/)
+
+[Pandas](https://pandas.pydata.org/)
+
+[Python functions](https://docs.python.org/3/library/functions.html)
+
+[Stack overflow](https://stackoverflow.com/)
