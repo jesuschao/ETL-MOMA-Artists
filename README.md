@@ -1,16 +1,14 @@
-# W5-ETL-Project
-
 # [W5-ETL-Project] Jesús Chao
 
 ## Approach to artists in MOMA since the last 50 years")
 
 ![](https://losviajesdesofia.com/wp-content/uploads/MoMA-Museum.jpg)
 
-PURPOSE.
+### PURPOSE.
 
 The aim of this project is extending a MOMA´s artists database taken from [Kaggle](https://www.kaggle.com/momanyc/museum-collection) with some interesting insights of the education and economy from the countries they are from. Naturally, this work is just an approach/sketch to the artists´s instruction and economic environment but does not want to draw any conclusion of it; many other facts should have been taken into account.
 
-PROCEDURE.
+### PROCEDURE.
 
 1_ I have imported a database from kaggle referred to the art&artists that have exhibited their work in MOMA. To get a better outline, I have decided to focus on the artists that have have exposed in the last 50 years.
 
@@ -28,7 +26,7 @@ PROCEDURE.
 ![](https://i.ytimg.com/vi/v9YSbIEhFik/maxresdefault.jpg)
 
 
-BIBLIOGRAPHIC REFERENCES AND RESOURCES.
+### BIBLIOGRAPHIC REFERENCES AND RESOURCES.
 
 [Kaggle](https://www.kaggle.com/datasets)
 
