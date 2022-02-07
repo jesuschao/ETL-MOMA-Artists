@@ -1,7 +1,7 @@
-Country,Date,AnnualGDP,AnnualGDP,GDP _Growth_percentage
+Country,Date,AnnualGDP,AnnualGDP1,GDP _Growth_percentage
 United States,2020,"€18,292,506M","$20,893,700M",-3.4%
 Euro zone,2020,"€11,400,271M","$13,021,206M",-6.4%
-United Kingdom,2020,"€2,423,371M","$2,709,680M",-9.7%
+United Kingdom,2020,"€2,423,371M","$2,709,680M",-9.4%
 Germany,2020,"€3,367,560M","$3,843,340M",-4.6%
 France,2020,"€2,302,860M","$2,624,420M",-7.9%
 Japan,2020,"€4,432,007M","$5,045,100M",-4.6%
