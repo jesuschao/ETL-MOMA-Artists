@@ -14,9 +14,8 @@ I have imported a database from kaggle referred to the art&artists that have exh
 
 After having cleaned and transformed the csv I have introduced some data using "BeautifulSoup" scrapping from following websites;
 
-        [Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
-
-        [Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
+[Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
+[Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
 
 According to the data it seems to be more correlation with economic growth than with creativity index education. Anyway this is just an approach and it should be taken into account many other factors like cultural affinity or political interests. 
 
