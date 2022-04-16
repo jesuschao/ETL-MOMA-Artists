@@ -1,6 +1,6 @@
-# [W5-ETL-Project] Jesús Chao
+# ETL Project. MOMA artists.
 
-## Approach to artists in MOMA since the last 50 years")
+## Is there a correlation of creativity index in education and GDP with artists that exhibits in MOMA museum?
 
 ![](https://losviajesdesofia.com/wp-content/uploads/MoMA-Museum.jpg)
 
@@ -10,18 +10,15 @@ The aim of this project is extending a MOMA´s artists database taken from [Kagg
 
 ### PROCEDURE.
 
-1_ I have imported a database from kaggle referred to the art&artists that have exhibited their work in MOMA. To get a better outline, I have decided to focus on the artists that have have exposed in the last 50 years.
+I have imported a database from kaggle referred to the art&artists that have exhibited their work in MOMA. To get a better outline, I have decided to focus on the artists that have have exposed in the last 50 years.
 
-2_ I have cleaned the csv from columns that are irrelevant for my goal; "Title", "ConstituentID", "ArtistBio" ... In addition to this, I modified other columns such as "Date", "Nationality" or "Artist" for managing the table.
+After having cleaned and transformed the csv I have introduced some data using "BeautifulSoup" scrapping from following websites;
 
+        [Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
 
-3_ I have introduced some data using "BeautifulSoup" scrapping from these websites;
+        [Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
 
-[Chartsbin](http://chartsbin.com/view/41109) that shows the creativity index by country.
-
-[Country economy](https://countryeconomy.com/gdp?year=1980) that shows the GDP by country.
-
-4_ Finally, I have joined all the information in one single table using MySQL.
+According to the data it seems to be more correlation with economic growth than with creativity index education. Anyway this is just an approach and it should be taken into account many other factors like cultural affinity or political interests. 
 
 
 ![](https://i.ytimg.com/vi/v9YSbIEhFik/maxresdefault.jpg)
