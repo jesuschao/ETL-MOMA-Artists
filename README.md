@@ -1,6 +1,6 @@
 # ETL Project. MOMA artists.
 
-## Is there any correlation of creativity index in education&GDP and the artists that have exhibited in MOMA museum?
+## Is there any correlation between creativity index&GDP and the artists that have exhibited in MOMA museum?
 
 ![](https://losviajesdesofia.com/wp-content/uploads/MoMA-Museum.jpg)
 
